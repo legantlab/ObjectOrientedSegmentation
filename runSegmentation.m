@@ -1,4 +1,4 @@
 %% Run segmentation App
 
-SegmentObjects
+SegmentObjectsBatch
 

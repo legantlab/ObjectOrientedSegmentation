@@ -1,3 +1,3 @@
 %Runs the FixMasks app
 
-FixMasks
+FixMasksBatch
